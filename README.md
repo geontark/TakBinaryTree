@@ -1,8 +1,8 @@
 # TakBinaryTree
 
 ## About TakBinaryTree
-this project is about binaryTree using Javascript.
-it contains binary tree insert, search, remove.
+this project is about binaryTree using Javascript.  
+it contains binary tree's insert, search, remove.
 
 ## How do I use TakBinaryTree?
 ```
